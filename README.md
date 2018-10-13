@@ -12,3 +12,4 @@ Prueba Realizada con PHP, Boostrap, Jquery, Ajax y Base de datos MySql.
 3.  Ubicarse en la carpeta conexion y abrir el archivo db_config.sql reemplazar los valores del usuario y password (define('DB_USER', "xxxxxx");  define('DB_PASSWORD', "xxxxxx");)
 4.  Para validar el archivo que retorna el arreglo, ingresar desde el navegador a la ruta http://localhost/Test/endpoint.php
 5.  Para ver el programa en funcionamiento ingresar a http://localhost/Test/index.php
+7.  Si se desea verificar el funcionamiento desde la web ingresar a la siguiente ruta:  http://olonte.com/APPS/aivo o http://olonte.com/APPS/aivo/endpoint.php
