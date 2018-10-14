@@ -50,7 +50,7 @@
                   <p class="h4 mb-4">Show Results</p>
 
                   <!-- Count -->
-                  <label>Last Twits</label>
+                  <label>Last Tweets</label>
 
                   <div class="form-group">
                       <input type="number" class="form-control rounded-0" id="count" name="count" min="1" max="10" step="1" value="1" required="required"></input>
